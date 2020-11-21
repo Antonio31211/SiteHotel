@@ -1,0 +1,44 @@
+body{
+    background-image: url(Imagens/praia.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: 100%;
+}
+
+#titulo{
+    font-family: monospace;
+    font-size: 50px;
+    color: rgb(16, 37, 54);
+    text-align: center;
+    margin-top: 0px;
+}
+
+#menu{
+    font-family: FreeMono, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    background-color: #040e0d;
+    color: rgb(61, 103, 158);
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+#subtitulo{
+    font-family: monospace;
+    font-size: 25px;
+    color: rgb(25, 63, 107);
+    text-align: center;
+    margin-top: 25%;
+    margin-bottom: 3%;
+}
+
+#info{
+    font-family: monospace;
+    font-size: 25px;
+    color: rgb(3, 3, 3);
+    text-align: center;
+}
