@@ -16,6 +16,8 @@ body{
     font-size: 20px;
     text-align: center;
     margin-bottom: 2%;
+    text-decoration: none;
+    bottom: 5px;
 }
 
 #titulo2{
@@ -27,9 +29,7 @@ body{
 }
 
 a{
-    background-color: #040e0d;
-    color: rgb(61, 103, 158);
-    padding: 5px 15px;
+    color: rgb(2, 2, 2);
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -49,6 +49,17 @@ a{
     float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 5%;
+    margin-left: 5px;
+}
+
+h3{
+    margin-left: 30px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    margin-left: 30px;
 }
 
 #rodape{

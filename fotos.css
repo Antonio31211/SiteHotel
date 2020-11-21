@@ -1,7 +1,7 @@
 body{
-    background-image: url(imagens/fundopraia2.jpg);
+    background-image: url(imagens/fundopreco.jpg);
     background-repeat: no-repeat, repeat;
-    background-size: 100%;
+    background-size: 125%;
 }
 
 #titulo{
@@ -17,16 +17,16 @@ body{
     font-size: 20px;
     text-align: center;
     margin-bottom: 2%;
+    text-decoration: none;
+    bottom: 5px;
 }
 
 a{
-    background-color: #040e0d;
-    color: rgb(61, 103, 158);
+    color: rgb(2, 2, 2);
     padding: 5px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border-radius: 10px;
 }
 
 #titulo2{
@@ -50,4 +50,5 @@ a{
     float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 5%;
+    margin-right: 8px;
 }

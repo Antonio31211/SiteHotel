@@ -1,5 +1,5 @@
 body{
-    background-image: url(Imagens/logo.jpg);
+    background-image: url(Imagens/fundopreco.jpg);
     background-repeat: no-repeat, repeat;
     background-size: 100%;
 }
@@ -17,16 +17,16 @@ body{
     font-size: 20px;
     text-align: center;
     margin-bottom: 2%;
+    text-decoration: none;
+    bottom: 5px;
 }
 
 a{
-    background-color: #040e0d;
-    color: rgb(61, 103, 158);
+    color: rgb(2, 2, 2);
     padding: 5px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border-radius: 10px;
 }
 
 #titulo2{

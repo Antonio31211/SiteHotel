@@ -1,5 +1,5 @@
 body{
-    background-image: url(Imagens/praia.jpg);
+    background-image: url(Imagens/fundopreco.jpg);
     background-repeat: no-repeat, repeat;
     background-size: 100%;
 }
@@ -16,29 +16,40 @@ body{
     font-family: FreeMono, monospace;
     font-size: 20px;
     text-align: center;
+    margin-bottom: 3%;
+    text-decoration: none;
+    bottom: 5px;
 }
+
 a{
-    background-color: #040e0d;
-    color: rgb(61, 103, 158);
+    color: rgb(2, 2, 2);
     padding: 5px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border-radius: 10px;
+}
+
+#img{
+    text-align: center;
+}
+
+.image{
+    border-radius: 20%;
+    width: 500px;
 }
 
 #subtitulo{
     font-family: monospace;
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(25, 63, 107);
     text-align: center;
-    margin-top: 25%;
+    margin-top: 2%;
     margin-bottom: 3%;
 }
 
 #info{
     font-family: monospace;
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(3, 3, 3);
     text-align: center;
 }
